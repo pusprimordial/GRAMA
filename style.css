@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(39, 77, 22);
+}
+
+.canvasSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+       
+}
+
+.canvasClass {
+    background-color: rgb(119, 185, 88);
+}
